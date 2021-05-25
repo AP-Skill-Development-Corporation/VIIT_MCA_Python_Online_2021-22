@@ -2,6 +2,4 @@
 
 # Welcome to Python Programming Online 2021-22
 
-# Program Registraion: [Link](https://engineering.apssdc.in/register)
-
 # Registered and Attendance [Link](https://docs.google.com/spreadsheets/d/1tuldI4oUhrmG1-fsMyJ_-2WWdRSNYg3J7BM0PiXljtY/edit?usp=sharing)
